@@ -1,5 +1,5 @@
 # Dicoding Submission : Creating a Simple Android Application
-**My favorite menu app** is the dicoding.com [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) course final assignment from the Android developer learning path. This application implements the RecyclerView, activity, and intent throughout the screen.
+**Simple android application** is the dicoding.com [**Belajar Membuat Aplikasi Android untuk Pemula**](https://www.dicoding.com/academies/51) course final assignment from the Android developer learning path. **In this final project I made a Favorite Menu App.** This application implements the RecyclerView, activity, and intent throughout the screen.
 
 <div align="center">
   <h3>Project Overview</h3>
@@ -39,4 +39,5 @@
 
 ## Results
 #### ⭐⭐⭐⭐ 4/5 stars achieved!
-
+<img width="266" alt="image" src="https://github.com/fiennaalya/Favorite-Menu-App-Dicoding-Submission/assets/99575596/bcefe92e-89ac-43fd-8382-c645eccc9081">
+<img width="279" alt="image" src="https://github.com/fiennaalya/Favorite-Menu-App-Dicoding-Submission/assets/99575596/bec3c166-9052-47f2-b329-c480761133b4">
