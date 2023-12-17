@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="nama_menu">Nama Menu</string>
+    <string name="detail_menu">Keterangan Menu</string>
+    <string name="content_text">"Halaman ini berisikan menu makanan favorit "</string>
+    <string name="halaman_utama">Daftar Menu</string>
+    <string name="halaman_about">About</string>
+    <string name="nama_about">Shalfienna Alya Khansa</string>
+    <string name="email_about">shalfienna@gmail.com</string>
+    <string name="keterangan">Detail Menu: </string>
+    <string name="rating">Rating</string>
+    <string name="rating_values">Nilai dari Rating</string>
+    <string name="harga">Harga</string>
+    <string name="harga_values">Nilai dari harga</string>
+    <string name="favorite">♡</string>
+    <string name="beli">Beli</string>
+</resources>
